@@ -1,0 +1,4 @@
+C:\dev\git\NUnitSample\NUnitSample.Contracts\bin\Debug\NUnitSample.Contracts.dll
+C:\dev\git\NUnitSample\NUnitSample.Contracts\bin\Debug\NUnitSample.Contracts.pdb
+C:\dev\git\NUnitSample\NUnitSample.Contracts\obj\Debug\NUnitSample.Contracts.dll
+C:\dev\git\NUnitSample\NUnitSample.Contracts\obj\Debug\NUnitSample.Contracts.pdb

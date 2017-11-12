@@ -1,0 +1,7 @@
+C:\dev\git\NUnitSample\NUnitSample.Service\bin\Debug\NUnitSample.Service.dll
+C:\dev\git\NUnitSample\NUnitSample.Service\bin\Debug\NUnitSample.Service.pdb
+C:\dev\git\NUnitSample\NUnitSample.Service\bin\Debug\NUnitSample.Contracts.dll
+C:\dev\git\NUnitSample\NUnitSample.Service\bin\Debug\NUnitSample.Contracts.pdb
+C:\dev\git\NUnitSample\NUnitSample.Service\obj\Debug\NUnitSample.Service.csprojResolveAssemblyReference.cache
+C:\dev\git\NUnitSample\NUnitSample.Service\obj\Debug\NUnitSample.Service.dll
+C:\dev\git\NUnitSample\NUnitSample.Service\obj\Debug\NUnitSample.Service.pdb
